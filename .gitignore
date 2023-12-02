@@ -1,0 +1,7 @@
+/_build/
+/_install/
+/_output/
+/.settings/
+/.cproject
+/.project
+CMakeLists.txt.user
